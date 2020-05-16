@@ -1,0 +1,16 @@
+<Doctype html>
+<html>
+<head>
+<title>form</title>
+
+</head>
+<body>
+<input type="text">
+<input type="color">
+<input type="radio">
+<input type="text">
+
+</body>
+</html>
+
+<!--a basic form page tutorial>
