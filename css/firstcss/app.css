@@ -1,5 +1,8 @@
 h1 {
 	color: rgba(0,200,100,0.8);
+	border-color: purple;
+	boder-width: 5px;
+	border-style: solid;
 	}
 
 h4{
