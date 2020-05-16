@@ -5,12 +5,15 @@
 
 </head>
 <body>
-<input type="text">
+<input type="text" placeholder="username">
 <input type="color">
 <input type="radio">
-<input type="text">
+<input type="password" placeholder="password">
 
 </body>
 </html>
 
 <!--a basic form page tutorial>
+
+<!-- form with place holder (used to identify input field in html)>
+
