@@ -1,0 +1,22 @@
+body
+{
+	background: Grey;
+}
+h1{
+	color: purple;
+}
+
+#h1{
+	color: orange;
+
+}
+#cc{
+	background: yellow;
+}
+ul{
+	color: blue;
+}
+#top input[type=checkbox]:checked{
+	background-color: blue;
+	color: blue;
+}
