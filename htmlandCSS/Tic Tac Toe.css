@@ -1,0 +1,28 @@
+h1{
+	margin : 5px 100px 100px ;
+}
+body{
+	background: pink;
+}
+table{
+	margin-bottom: 
+	background: pink;
+}
+td{
+	width: 100px;
+	height: 100px;
+}
+.vertical {
+	border-left: 1px solid black;
+	border-right: 1px solid black;
+	border-bottom: 1px solid black;
+
+}
+.horizontal{
+	border-top: : 1px solid black
+	border-bottom: 1px solid black;
+}
+
+.bot{
+	border-bottom:1px solid black;
+}
