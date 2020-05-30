@@ -1,0 +1,14 @@
+body{
+
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+	width:80%;
+	margin: 0 auto;
+}
+p{
+	font-family: Oswald;
+}
+h2{
+	font-family: Oswald;
+}
